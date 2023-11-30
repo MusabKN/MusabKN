@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Making something mysterious 
 - 🌱 I’m currently learning ... Dapp Development With Solidity & Node.js
 - 💞️ I’m looking to collaborate on ... Above Mentioned
-- 📫 How to reach me ... Comment down under my any repository XD
+- 📫 How to reach me ... Inbox me rok.co/@musab1
 
 <!---
 MusabKN/MusabKN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
